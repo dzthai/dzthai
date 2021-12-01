@@ -11,3 +11,10 @@ You can click the Preview link to take a look at your changes.
 Here are my GitHub Stats!
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzthai)](https://github.com/dzthai/github-readme-stats)
+
+<html>
+  <body>
+    <h1>This is the main heading</h1>
+    </h1>
+  </body>
+  </html>
