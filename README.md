@@ -16,5 +16,6 @@ Here are my GitHub Stats!
   <body>
     <h1>This is the main heading</h1>
     <h1>This is another heading</h1>
+    <h2>whatever</h2>
   </body>
   </html>
