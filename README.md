@@ -13,9 +13,17 @@ Here are my GitHub Stats!
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzthai)](https://github.com/dzthai/github-readme-stats)
 
 <html>
-  <body>
+
+<head>
+    <style>
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
     <h1>This is the main heading</h1>
-    <h1>This is another heading</h1>
-    <center>whatever</center>
-  </body>
-  </html>
+</body>
+
+</html>
