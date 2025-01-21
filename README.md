@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David!
 - 👀 I’m interested in Data Science!
 - 🌱 I’m currently learning about Machine Learning!
-- 📫 How to reach me: Email me at dzthai@ucsd.edu
+- 📫 How to reach me: Email me at thaidavid9@gmail.com
 
 ### Skills
 
